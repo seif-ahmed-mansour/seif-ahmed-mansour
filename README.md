@@ -57,6 +57,8 @@
     ![PHP](https://img.shields.io/badge/PHP-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Nodejs](https://img.shields.io/badge/Nodejs-%23121011.svg?style=for-the-badge&logo=node&logoColor=white)
     ![express](https://img.shields.io/badge/express-%234285F4.svg?style=for-the-badge&logo=express&logoColor=white)
-    ![MYSQL](https://img.shields.io/badge/mysql-2314354C?style=for-the-badge&logo=mysql&logoColor=black) 
+    ![MYSQL](https://img.shields.io/badge/mysql-2314354C?style=for-the-badge&logo=mysql&logoColor=black)
+    ![laravel](https://img.shields.io/badge/PHP-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 <br>
