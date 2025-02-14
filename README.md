@@ -16,7 +16,7 @@
 
 <br>
 
-- A passionate web deveolper
+- A passionate software engineer
 - 19 years old
 <br><br>
 
